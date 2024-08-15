@@ -40,13 +40,13 @@ const ItemSelection = () => {
                             className="btn btn-outline-light me-2 text-black"
                             style={{ borderRadius: '20px' }}
                         >
-                            Add to Cart
+                            Add 
                         </button>
                         <Link to="/order" className="btn btn-outline-light me-2 text-black" style={{ borderRadius: '20px' }}>
-                            Go to Cart
+                             Cart
                         </Link>
                         <Link to={`/menu/${restaurant.id}`} className="btn btn-light" style={{ borderRadius: '20px' }}>
-                            Back to Menu
+                            Menu
                         </Link>
                     </div>
                 </div>

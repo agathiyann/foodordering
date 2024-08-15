@@ -40,7 +40,7 @@ const OrderTracking = () => {
                     </ul>
                     <div className="d-flex justify-content-center mt-4">
                         <Link to="/" className="btn btn-outline-light text-black" style={{ borderRadius: '20px' }}>
-                            Back to Home
+                            Home
                         </Link>
                     </div>
                 </div>

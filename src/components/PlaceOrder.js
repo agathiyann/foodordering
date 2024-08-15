@@ -69,7 +69,7 @@ const PlaceOrder = () => {
                             style={{ borderRadius: '20px' }}
                             onClick={() => navigate(restaurantId ? `/menu/${restaurantId}` : '/')}
                         >
-                            Back to Menu
+                            Menu
                         </button>
                     </div>
                 </div>

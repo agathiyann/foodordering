@@ -25,10 +25,10 @@ const Menu = () => {
                 ))}
             </ul>
             <div className="text-center mt-4">
-                <Link to="/order" className="btn btn-light" style={{ borderRadius: '20px' }}>Go to Cart</Link>
+                <Link to="/order" className="btn btn-light" style={{ borderRadius: '20px' }}>Cart</Link>
             </div>
             <div className="text-center mt-4">
-                <Link to="/" className="btn btn-light" style={{ borderRadius: '20px' }}>Back to Restaurants</Link>
+                <Link to="/" className="btn btn-light" style={{ borderRadius: '20px' }}>Restaurants</Link>
             </div>
         </div>
     );
